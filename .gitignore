@@ -1,0 +1,8 @@
+*.app/
+*.log
+*.reply
+*.request
+*.snapshot
+config.json
+settings.plist
+.DS_Store
